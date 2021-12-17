@@ -1,0 +1,35 @@
+@import "./font-awesome.min.css";
+@import "./element.scss";
+
+
+* {
+    padding: 0;
+    margin: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+}
+a {
+    color: mix(#000, $--color-primary, 10%);
+    text-decoration: none;
+}
+
+::-webkit-scrollbar {
+    width: 4px;
+    height: 4px;
+    background-color: #F5F5F5;
+}
+
+
+.el-menu .fa {
+    vertical-align: middle;
+    margin-right: 5px;
+    width: 24px;
+    text-align: center;
+}
+
+.el-menu .fa:not(.is-children) {
+    font-size: 14px;
+}

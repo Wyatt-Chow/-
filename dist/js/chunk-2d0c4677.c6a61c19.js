@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c4677"],{"3b4f":function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",[n._v("物流商务服务")])},u=[],a={name:"index"},i=a,r=t("2877"),s=Object(r["a"])(i,c,u,!1,null,"179163d4",null);e["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0c4677.c6a61c19.js.map
